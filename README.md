@@ -1,4 +1,3 @@
-# Charts
 ## Kubemeta Charts
 
 ### Usage
