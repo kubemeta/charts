@@ -3,12 +3,12 @@ entries:
   cerebro:
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2023-06-27T11:46:13.512958+08:00"
+    created: "2023-06-27T12:07:41.780239+08:00"
     description: A Helm chart for Kubernetes
     digest: ecf85c787854bff60cdf6bb821bd6935a224cafe0cc31cbb25a1ebf57d616dd9
     name: cerebro
     type: application
     urls:
-    - https://github.com/kubemeta/charts/cle/cerebro-0.9.4.tgz
+    - https://github.com/kubemeta/charts/blob/v0.0.1/cle/cerebro-0.9.4.tgz
     version: 0.9.4
-generated: "2023-06-27T11:46:13.512315+08:00"
+generated: "2023-06-27T12:07:41.77957+08:00"
